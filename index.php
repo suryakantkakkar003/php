@@ -28,7 +28,7 @@
             if ($stmt->affected_rows > 0) {
                 $to = $email;
                 $subject = "Verification";
-                $url = "C:\\xampp\\htdocs\\phpcode\\verify.php?email=$email&hash=$hash";
+                $url = "https://github.com/suryakantkakkar003/php/blob/main/verify.php?email=$email&hash=$hash";
                 $msg = "
                     <html>
                         <head>
