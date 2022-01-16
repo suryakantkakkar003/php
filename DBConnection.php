@@ -18,19 +18,19 @@ class Database
     /**
      * @var string
      */
-    private $host = "localhost";
+    private $host = "sql6.freemysqlhosting.net";
     /**
      * @var string
      */
-    private $db = "rtcamp";
+    private $db = "ql6466035";
     /**
      * @var string
      */
-    private $user = "root";
+    private $user = "ql6466035";
     /**
      * @var string
      */
-    private $pass = "";
+    private $pass = "92rRMKUQjf";
 
     // The constructor is private
     // to prevent initiation with outer code.
